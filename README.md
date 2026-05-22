@@ -36,3 +36,8 @@ O projeto conta com um painel de controle exclusivo que permite:
 |---------------|----------------------------------------------------|
 | `index.html`  | Arquivo principal (Estrutura, Estilo e Lógica)     |
 | `README.md`   | Documentação do projeto                          |
+
+
+<img src="img/img-plantas" 
+    alt="Plantação tecnológica"
+    class="rounded-lg shadow-xl border-4 border-white dark:border-zinc-700">
